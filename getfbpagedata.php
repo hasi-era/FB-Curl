@@ -12,7 +12,7 @@ class GetfbPageData{
     
     function getPageUpdate(){
         
-        //use one og below method to get data from FB page
+        //use one of below method to get data from FB page
         
         //get data using CURL request
         //$pageUpdateData = $this->curl_get_contents("https://graph.facebook.com/v2.3/Your-Page-Name/photos?type=uploaded&access_token=Your-Access-Token");
