@@ -1,6 +1,6 @@
-<h2>Introduction<h2>
+<p>Introduction</p>
 
-<p>Get the updates of Facebook Pages using Facebook graph API</p>
+Get the updates of Facebook Pages using Facebook graph API
 
 https://developers.facebook.com/docs/graph-api
 =======
