@@ -1,6 +1,6 @@
 <?php
     /**
-    * This is the class use for get updates of pages
+    * This is the class useed for get the updates of pages
     *
     * Long description for class (if any)...
     * @author     Hasitha Eranga
@@ -8,7 +8,7 @@
     * @link https://github.com/
     */
 
-class Getfbpageimages{
+class GetfbPageData{
     
     function getPageUpdate(){
         
