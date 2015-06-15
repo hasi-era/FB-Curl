@@ -3,9 +3,9 @@
     * This is the class useed for get the updates of pages using Facebook graph API
     *
     * Long description for class (if any)...
-    * @author     Hasitha Eranga
+    * @author  Hasitha Eranga
     * @created 07/04/2015
-    * @link https://github.com/
+    * @link https://github.com/hasi-era/
     */
 
 class GetfbPageData{
