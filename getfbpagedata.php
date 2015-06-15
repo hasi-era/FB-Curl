@@ -38,7 +38,7 @@ class GetfbPageData{
     
 }
     //Creating The Object
-    $curls = new Getfbpageimages;
+    $curls = new GetfbPageData;
     //Call the Method 
     $std = $curls->getPageUpdate();
     
