@@ -49,7 +49,7 @@ class GetfbPageData{
         echo '<p style="font-size:20px;">'.$entry->name.'</p>';
         //this will echo the main source image(no resizing)
         echo '<img src="'.$entry->source.'">';
-        echo '<a href='.$entry->link.'>aa</a>';
+        echo '<a href='.$entry->link.'>Go to Post</a>';
         //break;//Uncomment this to get only latest post from the page
     }
 
